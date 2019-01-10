@@ -1,0 +1,22 @@
+.banner-section{
+    position: relative;
+    background: url(/assets/images/banner1.jpg) no-repeat center;
+    background-size: cover;
+    padding: 50px 20px;   
+    border-bottom: solid 15px  #ffdf93;
+}
+
+.banner-section .container{
+  padding: 12% 20px;
+}
+
+.btn-baner{
+  /* padding: 10px; */
+  border: solid 3px #685d4d;
+  font-size: 32px;
+  color: #000;
+  border-radius: 0;
+  font-weight: 700;
+  outline: none;
+  font-style: italic;
+}

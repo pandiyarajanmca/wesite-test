@@ -1,0 +1,38 @@
+.countdown-section {
+  position: relative;
+  background: url(/assets/images/countdown.jpg) no-repeat center;
+  background-size: cover;
+  padding: 1rem 0;
+}
+
+.inner {
+  padding: 12% 50px 15%;
+  max-width: 800px;
+  margin: auto;
+}
+
+.countdown-section .col-3>div {
+  border: solid 5px #ffffff;
+  text-align: center;
+  width: 150px;
+  height: 158px;
+  padding-top: 10px;
+}
+
+.countdown-section .m-auto h1 {
+  font-size: 70px;
+  font-weight: 700;
+}
+
+.countdown-section p {
+  font-weight: 700;
+}
+
+.border-0.m-auto {
+  padding: 20px 15px;
+  display: inline-block
+}
+
+.border-0.m-auto img {
+  max-width: 350px;
+}

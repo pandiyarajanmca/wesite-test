@@ -1,0 +1,39 @@
+img{
+    padding: 0;
+    border-radius: 0;
+}
+.lifestyle{
+    padding: 3rem 1em 0;
+}
+.life-container{
+    position: relative;
+}
+.text-dark h4{
+  font-weight: 700;
+  margin-top: 15px;
+}
+
+.pack .row{
+  background: #b49868;
+  margin: 0;
+  color: #ffffff;
+}
+.pack .col{
+    padding:0 5px;
+}
+.pack .pb-1{
+    border-top: 1px solid #ffffff;
+}
+.pack h4{
+    background: #f7df92;
+    width: 65px;
+    font-size: 16px;
+    border-radius: 50%;
+    color: #333;
+    height: 65px;
+    margin: -30px auto 0;
+    line-height: 20px;
+    float: right;
+    padding-top: 13px;
+    text-align: center;
+  }

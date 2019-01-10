@@ -1,0 +1,28 @@
+.navbar-dark .navbar-nav .nav-link{  
+ color: #ffffff;
+ padding: 45px 20px 0;
+}
+.navbar-dark .navbar-nav {    
+    display: flex;
+    align-items: stretch; 
+    justify-content: space-between;
+    width: 100%;
+}
+
+
+.navbar-dark .navbar-nav .nav-item{
+   vertical-align: middle;
+   display: block;
+   flex: 0 1 auto; /* Default */
+   list-style-type: none; 
+}
+
+.navbar-dark .navbar-nav .btn-special{
+    border: solid 3px #685d4d;
+    margin: 0 10px;
+    padding: 15px 8px 0;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    width: 65px;
+    height: 90px;    
+}

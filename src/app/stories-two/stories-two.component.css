@@ -1,0 +1,20 @@
+img {
+  border-radius: 0;
+}
+
+.lifestyle {
+  padding: 3rem 1em 0;
+}
+
+.life-container {
+  position: relative;
+}
+
+.small-images {
+  z-index: 10;
+}
+
+.right-images img {
+  width: 100%;
+  z-index: 10;
+}

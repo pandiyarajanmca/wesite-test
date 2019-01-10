@@ -1,0 +1,17 @@
+img{
+    /* border: solid 3px #bb9667; */
+}
+.lifestyle{
+    padding: 3rem 1em 0;
+}
+.life-container{
+    position: relative;
+}
+
+.text-dark{
+    
+}
+.text-dark h4{
+  font-weight: 700;
+  margin-top: 15px;
+}
